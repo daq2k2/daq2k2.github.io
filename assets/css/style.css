@@ -4,3 +4,9 @@
     width: 400px;
     height: 170px;
 }
+.logobottom{
+    display: flex;
+    align-items: stretch;
+    width: 400px;
+    height: 170px;
+}

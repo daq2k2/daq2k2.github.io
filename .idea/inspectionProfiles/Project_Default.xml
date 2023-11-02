@@ -1,0 +1,122 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="pytest" />
+            <item index="1" class="java.lang.String" itemvalue="more-itertools" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W605" />
+          <option value="E305" />
+          <option value="E302" />
+          <option value="E128" />
+          <option value="E261" />
+          <option value="E114" />
+          <option value="E116" />
+          <option value="E501" />
+          <option value="E201" />
+          <option value="E265" />
+          <option value="E303" />
+          <option value="E101" />
+          <option value="E266" />
+          <option value="E722" />
+          <option value="E712" />
+          <option value="E115" />
+          <option value="E125" />
+          <option value="E402" />
+          <option value="W191" />
+          <option value="E127" />
+          <option value="E117" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N801" />
+          <option value="N812" />
+          <option value="N813" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="input" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="object.cluster_centers_" />
+          <option value="object.inertia_" />
+          <option value="list.shape" />
+          <option value="dict.append" />
+          <option value="object.labels_" />
+          <option value="cv2.imread" />
+          <option value="cv2.rectangle" />
+          <option value="cv2.putText" />
+          <option value="cv2.FONT_HERSHEY_SIMPLEX" />
+          <option value="cv2.imshow" />
+          <option value="cv2.applyColorMap" />
+          <option value="cv2.bitwise_not" />
+          <option value="cv2.flip" />
+          <option value="cv2.cvtColor" />
+          <option value="cv2.COLOR_GRAY2BGR" />
+          <option value="cv2.resize" />
+          <option value="cv2.destroyAllWindows" />
+          <option value="cv2.waitKey" />
+          <option value="cv2.COLORMAP_JET" />
+          <option value="depthai.node" />
+          <option value="cv2.COLOR_GRAY2RGB" />
+          <option value="cv2.imwrite" />
+          <option value="cv2.Sobel" />
+          <option value="cv2.CV_32F" />
+          <option value="cv2.cartToPolar" />
+          <option value="cv2.COLOR_BGR2RGB" />
+          <option value="cv2.dnn" />
+          <option value="cv2.VideoCapture" />
+          <option value="score_target" />
+          <option value="cv2.drawMatches" />
+          <option value="cv2.ORB_create" />
+          <option value="cv2.BFMatcher" />
+          <option value="cv2.NORM_HAMMING" />
+          <option value="cv2.COLOR_RGB2BGR" />
+          <option value="cv2.IMREAD_UNCHANGED" />
+          <option value="cv2.COLOR_BGR2GRAY" />
+          <option value="cv2.VideoWriter" />
+          <option value="cv2.VideoWriter_fourcc" />
+          <option value="cv2.FONT_HERSHEY_COMPLEX" />
+          <option value="torch.backends.cudnn" />
+          <option value="torch.backends.cuda" />
+          <option value="bool.float" />
+          <option value="pycuda.driver.pagelocked_empty" />
+          <option value="pycuda.driver.mem_alloc" />
+          <option value="pycuda.driver.memcpy_htod" />
+          <option value="pycuda.driver.memcpy_dtoh" />
+          <option value="dlib.DLIB_USE_CUDA" />
+          <option value="dlib.DLIB_USE_BLAS" />
+          <option value="dlib.DLIB_USE_LAPACK" />
+          <option value="dlib.cuda" />
+          <option value="dlib.USE_AVX_INSTRUCTIONS" />
+          <option value="dlib.get_frontal_face_detector" />
+          <option value="PIL.Image.Resampling" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
