@@ -6,7 +6,7 @@
 }
 .logobottom{
     display: flex;
-    align-items: stretch;
-    width: 400px;
-    height: 170px;
+    align-items: left;
+    width: 450px;
+    height: 180px;
 }
